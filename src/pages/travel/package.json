@@ -1,0 +1,6 @@
+{
+  "name": "travel",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./travel.js"
+}
